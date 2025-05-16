@@ -28,9 +28,7 @@ It enables faculty, academic coordinators and decision-makers to gain actionable
 
 ## 📷 Preview
 
-> !![Dashboard View 1](./Screenshots/Screenshot1.png)
-
-> ![Dashboard View 2](./Screenshots/Screenshot2.png)
+> 
 
 
 
