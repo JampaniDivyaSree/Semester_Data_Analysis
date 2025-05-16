@@ -28,8 +28,8 @@ It enables faculty, academic coordinators and decision-makers to gain actionable
 
 ## 📷 Preview
 
-> *![Dashboard](Screenshots/dashboard1.png)*
-> *![Dashboard](Screenshots/dashboard2.png)*
+> ![Dashboard]([Screenshots/dashboard1.png](https://github.com/JampaniDivyaSree/Semester_Data_Analysis/blob/main/Screenshots/Screenshot1.png))
+> ![Dashboard]([Screenshots/dashboard2.png](https://github.com/JampaniDivyaSree/Semester_Data_Analysis/blob/main/Screenshots/Screenshot2.png))
 
 
 
