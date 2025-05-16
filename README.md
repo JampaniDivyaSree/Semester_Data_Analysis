@@ -25,13 +25,13 @@ It enables faculty, academic coordinators and decision-makers to gain actionable
 - **Power BI Desktop**
 - DAX (Data Analysis Expressions)
 - **Excel**
----
 
 ## 📷 Preview
 
-> *(Include a screenshot of the dashboard visuals here)*
+> *![Dashboard](Screenshots/dashboard1.png)*
+> *![Dashboard](Screenshots/dashboard2.png)*
 
----
+
 
 ## 📈 Use Case
 
@@ -40,12 +40,8 @@ This dashboard is ideal for:
 - Faculty analyzing subject-wise trends
 - Academic councils for curriculum reviews and support interventions
 
----
-
 ## 💡 Author
 
 Developed by [Divya Sree Jampani]  
 Contact: [divyasreejampani@gmail.com]  
 LinkedIn: [www.linkedin.com/in/divya-sree-jampani]
-
-
